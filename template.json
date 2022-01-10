@@ -1,6 +1,6 @@
 {
   "vue": {
-    "ant-design-vue": "https://github.com/Wshengs/ant-design-vue-template.git#main",
-    "naive-ui": "https://github.com/Wshengs/naive-ui-vue-template.git#main"
+    "ant-design-vue": "github.com:Wshengs/ant-design-vue-template.git#main",
+    "naive-ui": "github.com:Wshengs/naive-ui-vue-template.git#main"
   }
 }
